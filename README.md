@@ -1,16 +1,7 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/hankified/hankified/main/hankified-logo-320x132px.png" width="320"/>
+  # Hi, I'm Henry Nahum
+  
+[![Website](https://img.shields.io/badge/Website-nahum.ai-blue?style=for-the-badge&logo=safari&logoColor=white)](https://nahum.ai)
 
-</div>
-
----
-
-<div align="center">
-
-### Henry Nahum  
-New York • Jerusalem • Portugal
-
-[nahum.ai](https://nahum.ai) • [hankified.com](https://hankified.com) • [orders2.me](https://orders2.me)
-
-</div>
+</div align="center">
